@@ -4,6 +4,9 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
+  font: 400 15px Lato, sans-serif;
+  line-height: 1.8;
+  color: #818181;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -11,4 +14,63 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+.logo {
+  color: #f4511e;
+  font-size: 200px !important;
+  padding-left: 100px;
+  text-align: center !important;
+}
+
+.jumbotron {
+  background-color: #f4511e;
+  color: #fff;
+  padding: 100px 25px;
+  font-family: Montserrat, sans-serif;
+}
+.partner {
+  padding-bottom: 10px !important;
+  line-height: 1.8em;
+}
+.top {
+  vertical-align: text-top;
+  padding-right: 10px;
+}
+
+.myFont:first-child td {
+  font-size: 24px;
+}
+.myFont:nth-child(3) {
+  font-style: italic;
+}
+.myFont:nth-child(4) {
+  padding: 5px 0px 5px 0px;
+  font-size: 28px !important;
+  font-weight: 900;
+}
+.myFont:nth-child(5) {
+  padding-bottom: 20px;
+}
+.progressrc {
+  width: 200px;
+}
+.container-fluid {
+  padding: 60px 50px;
+}
+h2 {
+  font-size: 24px;
+  text-transform: uppercase;
+  color: #303030;
+  font-weight: 600;
+  margin-bottom: 30px;
+}
+h4,
+ul,
+table {
+  font-size: 19px;
+  line-height: 1.375em;
+  color: #303030;
+  font-weight: 400;
+  margin-bottom: 30px;
 }
