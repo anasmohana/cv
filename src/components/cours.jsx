@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import { getCoursInfo } from "../services/coursService";
 import RenderTable from "./common/renderTable";
 import Fade from "react-reveal/Fade";
-import { toast } from "react-toastify";
 
 class Courses extends Component {
   state = { data: [] };
@@ -33,7 +32,10 @@ class Courses extends Component {
           </div>
           <div className="col-sm-4">
             <Fade top big>
-              <i className="fa fa-leanpub logo" aria-hidden="true" />
+              <i
+                className="fa fa-leanpub logo d-none d-sm-none d-md-noen d-lg-block"
+                aria-hidden="true"
+              />
             </Fade>
           </div>
         </div>

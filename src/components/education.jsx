@@ -32,7 +32,10 @@ class Education extends Component {
           </div>
           <div className="col-sm-4">
             <Fade top big>
-              <i className="fa fa-graduation-cap logo" aria-hidden="true" />
+              <i
+                className="fa fa-graduation-cap logo d-none d-sm-none d-md-noen d-lg-block"
+                aria-hidden="true"
+              />
             </Fade>
           </div>
         </div>

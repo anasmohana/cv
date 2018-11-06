@@ -16,7 +16,7 @@ class Skills extends Component {
       <div className="container-fluid bg-light">
         <div className="row">
           <div className="col-sm-8">
-            <h2>Skills</h2>
+            <h2>Ferdigheter</h2>
             <table>
               <thead>
                 <tr>

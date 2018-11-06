@@ -74,3 +74,25 @@ table {
   font-weight: 400;
   margin-bottom: 30px;
 }
+
+.carousel-item {
+  height: 300px;
+  max-height: 300px;
+}
+
+.carousel-caption {
+  text-align: left;
+
+  color: #f4511e;
+}
+.fa-chevron-left,
+.fa-chevron-right {
+  color: #f4511e;
+  font-size: 28px !important;
+}
+.carousel-caption {
+  background-color: rgba(255, 255, 255, 0.4);
+  width: 15%;
+  height: 40%;
+  max-height: 50%;
+}

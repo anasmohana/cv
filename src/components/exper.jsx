@@ -33,7 +33,10 @@ class Exper extends Component {
           </div>
           <div className="col-sm-4">
             <Fade top>
-              <i className="fa fa-briefcase logo" aria-hidden="true" />
+              <i
+                className="fa fa-briefcase logo d-none d-sm-none d-md-noen d-lg-block"
+                aria-hidden="true"
+              />
             </Fade>
           </div>
         </div>

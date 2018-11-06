@@ -21,10 +21,13 @@ const NavBar = () => {
       <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div className="navbar-nav">
           <NavLink className="nav-item nav-link" to="/skills">
-            Annen erfaring
+            Ferdigheter
           </NavLink>
           <NavLink className="nav-item nav-link" to="/langs">
             Språkkunnskaper
+          </NavLink>
+          <NavLink className="nav-item nav-link" to="/info">
+            Info
           </NavLink>
         </div>
       </div>

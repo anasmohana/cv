@@ -28,7 +28,10 @@ class About extends Component {
       <div className="container-fluid bg-white">
         <div className="row">
           <div className="col-sm-3">
-            <i className="fa fa-info logo" aria-hidden="true" />
+            <i
+              className="fa fa-info logo d-none d-sm-none d-md-block"
+              aria-hidden="true"
+            />
           </div>
           <div className="col-sm-9">
             <h2>Personalia</h2>
