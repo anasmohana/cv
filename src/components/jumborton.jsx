@@ -15,21 +15,21 @@ const Jumborton = () => {
         <div className="carousel-inner">
           <div className="carousel-item">
             <img src={BroadCast} alt="BroadCast" className="d-block w-100" />
-            <div className="carousel-caption d-lg-none d-xl-block ">
+            <div className="carousel-caption d-md-none d-lg-none d-xl-block ">
               <h1>2006-2015</h1>
               <h3>BroadCast Ingeniør</h3>
             </div>
           </div>
           <div className="carousel-item">
             <img src={it} alt="it" className="d-block w-100" />
-            <div className="carousel-caption d-lg-none d-xl-block">
+            <div className="carousel-caption d-md-none d-lg-none d-xl-block">
               <h1>2011-2014</h1>
               <h3>IKT Ingeniør</h3>
             </div>
           </div>
           <div className="carousel-item active ">
             <img src={frontend} alt="frontend" className="d-block w-100" />
-            <div className="carousel-caption d-lg-none d-xl-block">
+            <div className="carousel-caption d-md-none d-lg-none d-xl-block">
               <h1>2014-2018</h1>
               <h3>Frontend Utvikler</h3>
             </div>
