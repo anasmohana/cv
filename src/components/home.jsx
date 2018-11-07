@@ -11,7 +11,7 @@ class Home extends Component {
   state = {};
   showToast() {
     toast.error(
-      "IKKE NOE FARLIG: Men jeg håper at dere bli interesse om min CV"
+      "IKKE NOE FARLIG: Men jeg håper dere vil være interessert i min CV"
     );
   }
   render() {
