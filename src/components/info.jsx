@@ -4,20 +4,6 @@ const Info = () => {
   return (
     <React.Fragment>
       <div className="container-fluid bg-light">
-        <h2>Hvem er jeg?</h2>
-        <p>
-          Jeg er 34 år og kommer opprinnelig fra Syria. Jeg har en bachelorgrad
-          i elektronikk og kommunikasjon fra Damaskus Universitetet. Med min
-          universitetsutdannelse og min varierte yrkesbakgrunn mener jeg å
-          inneha de kvalifikasjonene som dere er på jakt etter. Det å planlegge
-          og finne effektive løsninger har vært sentral oppgave i mine tidligere
-          arbeidsforhold. Den vanskelige situasjonen i mitt hjemland har gitt
-          meg mange utfordringer som IT- leder i bank, kringkastingsingeniør på
-          radio og TV, og frontend - utvikler i mitt private firma. Dette har
-          gitt meg mange ferdigheter på kort tid.
-        </p>
-      </div>
-      <div className="container-fluid bg-white">
         <h2>Why I created this project?</h2>
         <p>
           I created this project to communicate with you in another way. And to
