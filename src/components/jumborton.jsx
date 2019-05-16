@@ -16,7 +16,7 @@ const Jumborton = () => {
           <div className="carousel-item active ">
             <img src={frontend} alt="frontend" className="d-block w-100" />
             <div className="carousel-caption">
-              <h1>2014-2018</h1>
+              <h1>2014-2019</h1>
               <h3>Frontend Utvikler</h3>
             </div>
           </div>
@@ -30,7 +30,7 @@ const Jumborton = () => {
           <div className="carousel-item">
             <img src={it} alt="it" className="d-block w-100" />
             <div className="carousel-caption">
-              <h1>2011-2014</h1>
+              <h1>2006-2019</h1>
               <h3>IKT Ingeniør</h3>
             </div>
           </div>
